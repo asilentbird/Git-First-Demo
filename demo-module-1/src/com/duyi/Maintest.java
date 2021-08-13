@@ -2,6 +2,6 @@ package com.duyi;
 
 public class Maintest {
     public static void main(String[] args) {
-        System.out.println("阿迪斯阿松3aqwe ds大1");
+        System.out.println("阿迪斯阿松3aqwe11ds大1");
     }
 }
